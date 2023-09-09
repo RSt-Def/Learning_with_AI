@@ -1,10 +1,10 @@
-# Learning_with_AI (ENG & UA)
+# Learning-with-AI (ENG & UA)
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 # English version
 
 ## Table of Contents
-1. Introduction
+1. Introduction(#-1-introduction)
 2. What is AI (Artificial Intelligence)
 3 .ChatGPT by OpenAI
 4. Pros and Cons
