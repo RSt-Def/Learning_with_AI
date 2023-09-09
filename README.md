@@ -4,7 +4,7 @@
 # English version
 
 ## Table of Contents
-1. Introduction(#-1-introduction)
+1. [Introduction](#-1-introduction)
 2. What is AI (Artificial Intelligence)
 3 .ChatGPT by OpenAI
 4. Pros and Cons
