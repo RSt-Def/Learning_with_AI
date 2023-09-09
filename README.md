@@ -3,7 +3,7 @@
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 # English version
 
-## Table ofContents
+## Table of Contents
 1. Introduction
 2. What is AI (Artificial Intelligence)
 3 .ChatGPT by OpenAI
@@ -42,10 +42,6 @@ Of course, AI such as ChatGPT has not yet reached the peak of its perfection, bu
 It is important to approach use with an understanding of ChatGPT's features and potential restrictions.
 
 
-
-
-
-
 # Ukrainian version
 ## Зміст
 
@@ -56,7 +52,7 @@ It is important to approach use with an understanding of ChatGPT's features and 
 5. Ризики та запобігання ризикам
 6. Висновки
 
- ## Вступ
+## Вступ
 В історії людства завжди створювалися технології, що радикально змінювали наш підхід до навчання та розвитку. Штучний інтелект (далі - ШІ), що поєднує у собі машинне навчання та глибокі нейронні мережі, є однією з таких технологій. Він відкриває нові горизонти у роботі та освіті. У цій статті я хочу розглянути, яким чином ШІ може слугувати надзвичайно потужним інструментом в освоєні мови програмування і спростити процес навчання.
 
 ## Що таке ШІ (Штучний Інтелект)
