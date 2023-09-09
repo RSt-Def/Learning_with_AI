@@ -4,12 +4,12 @@
 # English version
 
 ## Table of Contents
-1. [Introduction](introduction)
-2. [What is AI (Artificial Intelligence)](##-What-is-AI-(Artificial-Intelligence))
-3. [ChatGPT by OpenAI](##-ChatGPT-by-OpenAI)
-4. [Pros and Cons](##-Pros-and-Cons)
-5. [Risks and Risk Mitigation](##-Risks-and-Risk-Mitigation)
-6. [Conclusions](##-Conclusions)
+1. [Introduction](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#introduction)
+2. [What is AI (Artificial Intelligence)](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#what-is-ai-artificial-intelligence)
+3. [ChatGPT by OpenAI](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#chatgpt-by-openai)
+4. [Pros and Cons](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#pros-and-cons)
+5. [Risks and Risk Mitigation](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#risks-and-risk-mitigation)
+6. [Conclusions](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#conclusions)
 
 ## Introduction
 Throughout human history, technologies have always been created that radically change the way we approach learning and development. One such technology is artificial intelligence (hereinafter referred to as AI), which combines machine learning and deep neural networks. This opens up new horizons in work and education. In this article, I want to explain how AI can serve as an extremely powerful tool for learning programming languages and simplifying the learning process.
