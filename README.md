@@ -36,7 +36,7 @@ Currently, AI technologies are in the early stages of development. therefore, th
 
 
 
-Ukrainian version
+# Ukrainian version
 ## Зміст
 
 1. Вступ
