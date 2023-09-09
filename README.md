@@ -4,11 +4,11 @@
 # English version
 
 ## Table of Contents
-1. [Introduction](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#introduction)
-2. [What is AI (Artificial Intelligence)](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#what-is-ai-artificial-intelligence)
-3. [ChatGPT by OpenAI](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#chatgpt-by-openai)
-4. [Pros and Cons](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#pros-and-cons)
-5. [Risks and Risk Mitigation](https://github.com/RSt-Def/Learning_with_AI/blob/main/README.md#risks-and-risk-mitigation)
+1. [Introduction](#introduction)
+2. [What is AI (Artificial Intelligence)](#what-is-ai-artificial-intelligence)
+3. [ChatGPT by OpenAI](#chatgpt-by-openai)
+4. [Pros and Cons](#pros-and-cons)
+5. [Risks and Risk Mitigation](#risks-and-risk-mitigation)
 6. [Conclusions](#conclusions)
 
 ## Introduction
