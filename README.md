@@ -20,10 +20,10 @@ To begin with, let's define what AI is. AI belongs to the field of computer scie
 In this context, ChatGPT from OpenAI serves as a vivid example of modern achievements in the field of AI. Based on the implementation of deep learning and neural networks, it opens up opportunities for a wide range of applications, including learning to program. It assists during learning, answers questions through interactive communication, and adapts to your needs.
 
 ## Pros and Cons
-Pros
+### Pros
 One of the biggest advantages of ChatGPT, in my opinion, is its ease of use and clarity, which expands the circle of users. Another advantage is the possibility of interactive communication. Overall, ChatGPT is the best AI available on the market for the average user.
 
-Cons
+### Cons
 Currently, AI technologies are in the early stages of development. therefore, the information it provides may be incorrect or out of date. Please note that the last update of the ChatGPT database was in 2021.
 
 ## Risks and Risk Mitigation
@@ -56,9 +56,9 @@ Currently, AI technologies are in the early stages of development. therefore, th
 У цьому контексті ChatGPT від OpenAI стає яскравим прикладом сучасних досягнень у сфері ШІ. Заснований на впровадженні глибокого навчання та нейронних мереж, він відкриває можливості для широкого спектру застосувань, включаючи навчання програмуванню. Він асистує під час навчання, відповідає на запитання через інтерактивне спілкування та адаптується під ваші потреби. 
 
 ## Переваги і недоліки
-Переваги
+### Переваги
 Однією з найбільших переваг ChatGPT, на мою думку, є його простота у використанні і зрозумілість, що розширює коло користувачів. Ще одна перевага - це можливість інтерактивного спілкування. Взагалі ChatGPT найкращий ШІ, серед доступних на ринку для звичайного користувача.
-Недоліки
+### Недоліки
 Наразі технології ШІ знаходяться на ранніх стадіях розвитку. Відповідно, інформація, яку він надає, може бути некоректною або застарілою. Слід враховувати, що останнє оновлення бази даних ChatGPT відбулося у 2021 році.
 
 ## Ризики та запобігання ризикам
