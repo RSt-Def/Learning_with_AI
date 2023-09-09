@@ -28,6 +28,12 @@ One of the biggest advantages of ChatGPT, in my opinion, is its ease of use and 
 Currently, AI technologies are in the early stages of development. therefore, the information it provides may be incorrect or out of date. Please note that the last update of the ChatGPT database was in 2021.
 
 ## Risks and Risk Mitigation
+As mentioned above, AI is at an early stage of development. This is important to understand. Unfortunately, some people abandon its use after the first incorrect answers, or do not understand how it can assist them.
+
+In order to assist in fostering an effective dialogue with AI, I want to share a strategy that I personally use to obtain accurate answers. Imagine that you are communicating with a small child aged 3-4 years, who is familiar with almost all knowledge up until 2021. The key to success is to phrase your questions as clearly as possible. The more specific your request, the more specific the answer you will receive. This response might also be incorrect, but thanks to interactive communication, you have the chance to steer the conversation and get the information you desire.
+
+
+
 
 
 
