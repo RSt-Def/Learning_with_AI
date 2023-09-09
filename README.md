@@ -32,14 +32,15 @@ As mentioned above, AI is at an early stage of development. This is important to
 
 In order to assist in fostering an effective dialogue with AI, I want to share a strategy that I personally use to obtain accurate answers. Imagine that you are communicating with a small child aged 3-4 years, who is familiar with almost all knowledge up until 2021. The key to success is to phrase your questions as clearly as possible. The more specific your request, the more specific the answer you will receive. This response might also be incorrect, but thanks to interactive communication, you have the chance to steer the conversation and get the information you desire.
 
+As for the information after 2021, there are currently ways to bypass these restrictions. I tested this while learning React Router. To understand the latest updates, I paste details from the documentation about a specific route (action, loader), and then analyzed the accuracy of my understanding and implementation in the code through interactive communication. This method turned out to be very effective.
 
-
-
-
-
-
+I also recommend creating separate chats to discuss different topics, rather than discussing in one place. This helps to get more structured and clear answers.
 
 ## Conclusions
+Of course, AI such as ChatGPT has not yet reached the peak of its perfection, but it can already become a powerful tool in improving the process of self-education and professional growth. Despite certain restrictions, especially regarding the relevance of data after 2021, ChatGPT can serve as a fast and reliable assistant in finding answers to various questions.
+
+It is important to approach use with an understanding of ChatGPT's features and potential restrictions.
+
 
 
 
